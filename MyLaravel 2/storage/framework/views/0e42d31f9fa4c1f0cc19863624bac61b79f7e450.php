@@ -1,0 +1,1 @@
+<h1>Ruben Benedict</h1><?php /**PATH C:\Users\User\MyLaravel\resources\views/index.blade.php ENDPATH**/ ?>
